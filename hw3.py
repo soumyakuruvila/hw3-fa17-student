@@ -2,7 +2,7 @@
 #                                #
 #  Homework 3                    #
 #  Released: September 26, 2017  #
-#  Due: October 11, 2017         #
+#  Due: October 10, 2017         #
 #                                #
 ##################################
 
